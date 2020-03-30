@@ -56,7 +56,7 @@
                     <a href="index.jsp" class="btn btn-primary btn-user btn-block">
                       ล็อกอิน
                     </a>
-                    <hr
+                    <hr>
                   </form>
                   <hr>
                   <div class="text-center">
